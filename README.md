@@ -24,7 +24,7 @@ Font Customizer is an iOS app that lets users preview, customize, and copy text 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/font-customizer.git
+   git clone https://github.com/itkhld1/Font.git
 
 2. **Open the project in Xcode**:
 Open Font.xcodeproj in Xcode.
