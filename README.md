@@ -2,6 +2,16 @@
 
 Font Customizer is an iOS app that lets users preview, customize, and copy text in various fonts and styles as images. The app includes a variety of font options and customization features, such as adjustable font sizes, color selection, and a "Copy as Image" button for sharing styled text.
 
+## 📷 Screenshots
+
+<p float="left">
+  <img width="150" src="Screenshots/Simulator Screenshot - iPhone 16 Pro - 2024-11-01 at 15.33.40.png">
+  <img width="150" src="Screenshots/Simulator Screenshot - iPhone 16 Pro - 2024-11-01 at 15.33.48.png">
+  <img width="150" src="Screenshots/Simulator Screenshot - iPhone 16 Pro - 2024-11-01 at 15.33.55.png">
+   <img width="150" src="Screenshots/Simulator Screenshot - iPhone 16 Pro - 2024-11-01 at 15.34.19.png">
+   <img width="150" src="Screenshots/Simulator Screenshot - iPhone 16 Pro - 2024-11-01 at 15.34.30.png">
+</p>
+
 ## Features
 
 - **Font Selection**: Choose from a list of custom fonts.
