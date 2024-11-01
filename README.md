@@ -42,5 +42,5 @@ Press Cmd + R to build and run the project.
    - Adjust the font size with the slider.
    - Enter or modify the text in the preview area.
 3. **Copy as Image:**
-   - Tap "Copy Font as Image" to save your customized text as an image in the clipboard.
+   - Tap and press "Copy Font as Image" to save your customized text as an image in the clipboard.
    - The app will confirm with a success alert.
