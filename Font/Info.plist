@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Bouquets.otf</string>
+		<string>Badge.otf</string>
+		<string>ArianaVioleta.ttf</string>
+		<string>chilispepper.ttf</string>
+		<string>FREEDOM.otf</string>
+		<string>Gotten.otf</string>
+		<string>Jasmine.otf</string>
+		<string>MorganChalk.ttf</string>
+		<string>MTFBirthdayBashDoodles.otf</string>
+		<string>MTFSaxy.ttf</string>
+		<string>ShortBaby.ttf</string>
+		<string>Beautiful Beach.otf</string>
+		<string>rhaven.ttf</string>
+		<string>Sister.otf</string>
+		<string>Cake.otf</string>
+		<string>Konimasa.ttf</string>
+		<string>Cocoa Trial Version.ttf</string>
+		<string>Christmas Jewelry TTF Demo.ttf</string>
+	</array>
+</dict>
+</plist>
